@@ -1,18 +1,46 @@
 {
     "dogs": [
-      {
-        "id": 1,
-        "name": "Cherry",
-        "age": 2,
-        "place": "Visakhapatnam",
-        "gender": "Male"
-      },
-      {
-        "id": 2,
-        "name": "Tommy",
-        "age": 3,
-        "place": "Banglore",
-        "gender": "Female"
-      }
+        {
+            "id": 1,
+            "name": "cherry",
+            "age": 2,
+            "place": "visakhapatnam",
+            "gender": "male"
+          },
+          {
+            "id": 2,
+            "name": "tommy",
+            "age": 3,
+            "place": "banglore",
+            "gender": "female"
+          },
+          {
+            "name": "nike",
+            "age": "1",
+            "gender": "male",
+            "place": "srikakulam",
+            "id": 3
+          },
+          {
+            "name": "mike",
+            "age": "4",
+            "gender": "male",
+            "place": "delhi",
+            "id": 4
+          },
+          {
+            "name": "nike",
+            "age": "5",
+            "gender": "male",
+            "place": "mumbai",
+            "id": 5
+          },
+          {
+            "name": "rrr",
+            "age": "6",
+            "gender": "female",
+            "place": "hyderabad",
+            "id": 6
+          }
     ]
   }
